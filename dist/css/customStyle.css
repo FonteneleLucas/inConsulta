@@ -1,0 +1,7 @@
+.paddingOneTop{
+    padding-top: 1% !important;
+}
+
+.messageBox{
+    position:fixed; top:9.5%; right:2% !important;
+}
